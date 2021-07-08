@@ -357,6 +357,9 @@ img {
 .home__scroll-arrow {
   font-size: 1.25rem;
 }
+.home {
+  background-color: rgb(235, 235, 238);
+}
 /*==================== BUTTONS ====================*/
 
 .button {
